@@ -1,0 +1,11 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\Lóg Program Orient Obj\Programas C#\Calcular_Salario\bin\Debug\Calcular_Salario.exe.config
+C:\Users\mathe\OneDrive\Área de Trabalho\Lóg Program Orient Obj\Programas C#\Calcular_Salario\bin\Debug\Calcular_Salario.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Lóg Program Orient Obj\Programas C#\Calcular_Salario\bin\Debug\Calcular_Salario.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Lóg Program Orient Obj\Programas C#\Calcular_Salario\obj\Debug\Calcular_Salario.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Lóg Program Orient Obj\Programas C#\Calcular_Salario\obj\Debug\Calcular_Salario.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Lóg Program Orient Obj\Programas C#\Calcular_Salario\obj\Debug\Calcular_Salario.Properties.Resources.resources
+C:\Users\mathe\OneDrive\Área de Trabalho\Lóg Program Orient Obj\Programas C#\Calcular_Salario\obj\Debug\Calcular_Salario.csproj.GenerateResource.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Lóg Program Orient Obj\Programas C#\Calcular_Salario\obj\Debug\Calcular_Salario.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Lóg Program Orient Obj\Programas C#\Calcular_Salario\obj\Debug\Calcular_Salario.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Lóg Program Orient Obj\Programas C#\Calcular_Salario\obj\Debug\Calcular_Salario.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Lóg Program Orient Obj\Programas C#\Calcular_Salario\obj\Debug\Calcular_Salario.frmCalculoSalario.resources

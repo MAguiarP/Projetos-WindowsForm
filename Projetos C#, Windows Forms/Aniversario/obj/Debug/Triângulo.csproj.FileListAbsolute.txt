@@ -1,0 +1,11 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\Lóg Program Orient Obj\Programas C#\Triângulo\bin\Debug\Triângulo.exe.config
+C:\Users\mathe\OneDrive\Área de Trabalho\Lóg Program Orient Obj\Programas C#\Triângulo\bin\Debug\Triângulo.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Lóg Program Orient Obj\Programas C#\Triângulo\bin\Debug\Triângulo.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Lóg Program Orient Obj\Programas C#\Triângulo\obj\Debug\Triângulo.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Lóg Program Orient Obj\Programas C#\Triângulo\obj\Debug\Triângulo.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Lóg Program Orient Obj\Programas C#\Triângulo\obj\Debug\Triângulo.frmTriangulo.resources
+C:\Users\mathe\OneDrive\Área de Trabalho\Lóg Program Orient Obj\Programas C#\Triângulo\obj\Debug\Triângulo.Properties.Resources.resources
+C:\Users\mathe\OneDrive\Área de Trabalho\Lóg Program Orient Obj\Programas C#\Triângulo\obj\Debug\Triângulo.csproj.GenerateResource.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Lóg Program Orient Obj\Programas C#\Triângulo\obj\Debug\Triângulo.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Lóg Program Orient Obj\Programas C#\Triângulo\obj\Debug\Triângulo.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Lóg Program Orient Obj\Programas C#\Triângulo\obj\Debug\Triângulo.pdb
