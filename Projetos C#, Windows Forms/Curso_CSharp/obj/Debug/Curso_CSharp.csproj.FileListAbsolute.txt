@@ -1,0 +1,35 @@
+C:\Users\mathe\OneDrive\Área de Trabalho\Lóg Program Orient Obj\Meus programas\Curso_CSharp\bin\Debug\Curso_CSharp.exe.config
+C:\Users\mathe\OneDrive\Área de Trabalho\Lóg Program Orient Obj\Meus programas\Curso_CSharp\bin\Debug\Curso_CSharp.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Lóg Program Orient Obj\Meus programas\Curso_CSharp\bin\Debug\Curso_CSharp.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Lóg Program Orient Obj\Meus programas\Curso_CSharp\obj\Debug\Curso_CSharp.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Lóg Program Orient Obj\Meus programas\Curso_CSharp\obj\Debug\Curso_CSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Lóg Program Orient Obj\Meus programas\Curso_CSharp\obj\Debug\Curso_CSharp.frmSaudacao.resources
+C:\Users\mathe\OneDrive\Área de Trabalho\Lóg Program Orient Obj\Meus programas\Curso_CSharp\obj\Debug\Curso_CSharp.Properties.Resources.resources
+C:\Users\mathe\OneDrive\Área de Trabalho\Lóg Program Orient Obj\Meus programas\Curso_CSharp\obj\Debug\Curso_CSharp.csproj.GenerateResource.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Lóg Program Orient Obj\Meus programas\Curso_CSharp\obj\Debug\Curso_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Lóg Program Orient Obj\Meus programas\Curso_CSharp\obj\Debug\Curso_CSharp.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Lóg Program Orient Obj\Meus programas\Curso_CSharp\obj\Debug\Curso_CSharp.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Lóg Program Orient Obj\Programas C#\Curso_CSharp\bin\Debug\Curso_CSharp.exe.config
+C:\Users\mathe\OneDrive\Área de Trabalho\Lóg Program Orient Obj\Programas C#\Curso_CSharp\bin\Debug\Curso_CSharp.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Lóg Program Orient Obj\Programas C#\Curso_CSharp\bin\Debug\Curso_CSharp.pdb
+C:\Users\mathe\OneDrive\Área de Trabalho\Lóg Program Orient Obj\Programas C#\Curso_CSharp\obj\Debug\Curso_CSharp.csproj.AssemblyReference.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Lóg Program Orient Obj\Programas C#\Curso_CSharp\obj\Debug\Curso_CSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Lóg Program Orient Obj\Programas C#\Curso_CSharp\obj\Debug\Curso_CSharp.frmIdade.resources
+C:\Users\mathe\OneDrive\Área de Trabalho\Lóg Program Orient Obj\Programas C#\Curso_CSharp\obj\Debug\Curso_CSharp.frmSaudacao.resources
+C:\Users\mathe\OneDrive\Área de Trabalho\Lóg Program Orient Obj\Programas C#\Curso_CSharp\obj\Debug\Curso_CSharp.Properties.Resources.resources
+C:\Users\mathe\OneDrive\Área de Trabalho\Lóg Program Orient Obj\Programas C#\Curso_CSharp\obj\Debug\Curso_CSharp.csproj.GenerateResource.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Lóg Program Orient Obj\Programas C#\Curso_CSharp\obj\Debug\Curso_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\mathe\OneDrive\Área de Trabalho\Lóg Program Orient Obj\Programas C#\Curso_CSharp\obj\Debug\Curso_CSharp.exe
+C:\Users\mathe\OneDrive\Área de Trabalho\Lóg Program Orient Obj\Programas C#\Curso_CSharp\obj\Debug\Curso_CSharp.pdb
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Curso_CSharp\bin\Debug\Curso_CSharp.exe.config
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Curso_CSharp\bin\Debug\Curso_CSharp.exe
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Curso_CSharp\bin\Debug\Curso_CSharp.pdb
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Curso_CSharp\obj\Debug\Curso_CSharp.csproj.AssemblyReference.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Curso_CSharp\obj\Debug\Curso_CSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Curso_CSharp\obj\Debug\Curso_CSharp.frmIdade.resources
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Curso_CSharp\obj\Debug\Curso_CSharp.frmSaudacao.resources
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Curso_CSharp\obj\Debug\Curso_CSharp.Properties.Resources.resources
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Curso_CSharp\obj\Debug\Curso_CSharp.csproj.GenerateResource.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Curso_CSharp\obj\Debug\Curso_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Curso_CSharp\obj\Debug\Curso_CSharp.exe
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Curso_CSharp\obj\Debug\Curso_CSharp.pdb
