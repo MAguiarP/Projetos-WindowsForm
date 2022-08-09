@@ -1,0 +1,11 @@
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Calcular 13º Salário\bin\Debug\Calcular 13º Salário.exe.config
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Calcular 13º Salário\bin\Debug\Calcular 13º Salário.exe
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Calcular 13º Salário\bin\Debug\Calcular 13º Salário.pdb
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Calcular 13º Salário\obj\Debug\Calcular 13º Salário.csproj.AssemblyReference.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Calcular 13º Salário\obj\Debug\Calcular 13º Salário.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Calcular 13º Salário\obj\Debug\Calcular_13º_Salário.frmCalcular13Salario.resources
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Calcular 13º Salário\obj\Debug\Calcular_13º_Salário.Properties.Resources.resources
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Calcular 13º Salário\obj\Debug\Calcular 13º Salário.csproj.GenerateResource.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Calcular 13º Salário\obj\Debug\Calcular 13º Salário.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Calcular 13º Salário\obj\Debug\Calcular 13º Salário.exe
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Calcular 13º Salário\obj\Debug\Calcular 13º Salário.pdb

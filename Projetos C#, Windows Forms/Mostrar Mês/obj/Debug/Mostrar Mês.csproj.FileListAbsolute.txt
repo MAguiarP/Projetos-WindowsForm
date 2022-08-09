@@ -1,0 +1,11 @@
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Mostrar Mês\obj\Debug\Mostrar Mês.csproj.AssemblyReference.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Mostrar Mês\obj\Debug\Mostrar Mês.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Mostrar Mês\obj\Debug\Mostrar_Mês.mostrarmes.resources
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Mostrar Mês\obj\Debug\Mostrar_Mês.Properties.Resources.resources
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Mostrar Mês\obj\Debug\Mostrar Mês.csproj.GenerateResource.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Mostrar Mês\obj\Debug\Mostrar Mês.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Mostrar Mês\bin\Debug\Mostrar Mês.exe.config
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Mostrar Mês\bin\Debug\Mostrar Mês.exe
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Mostrar Mês\bin\Debug\Mostrar Mês.pdb
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Mostrar Mês\obj\Debug\Mostrar Mês.exe
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Mostrar Mês\obj\Debug\Mostrar Mês.pdb
