@@ -1,0 +1,17 @@
+C:\Users\ALUNO 20\source\repos\Sobrescrita\bin\Debug\net6.0-windows\Sobrescrita.exe
+C:\Users\ALUNO 20\source\repos\Sobrescrita\bin\Debug\net6.0-windows\Sobrescrita.deps.json
+C:\Users\ALUNO 20\source\repos\Sobrescrita\bin\Debug\net6.0-windows\Sobrescrita.runtimeconfig.json
+C:\Users\ALUNO 20\source\repos\Sobrescrita\bin\Debug\net6.0-windows\Sobrescrita.dll
+C:\Users\ALUNO 20\source\repos\Sobrescrita\bin\Debug\net6.0-windows\Sobrescrita.pdb
+C:\Users\ALUNO 20\source\repos\Sobrescrita\obj\Debug\net6.0-windows\Sobrescrita.csproj.AssemblyReference.cache
+C:\Users\ALUNO 20\source\repos\Sobrescrita\obj\Debug\net6.0-windows\Sobrescrita.Form1.resources
+C:\Users\ALUNO 20\source\repos\Sobrescrita\obj\Debug\net6.0-windows\Sobrescrita.csproj.GenerateResource.cache
+C:\Users\ALUNO 20\source\repos\Sobrescrita\obj\Debug\net6.0-windows\Sobrescrita.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO 20\source\repos\Sobrescrita\obj\Debug\net6.0-windows\Sobrescrita.AssemblyInfoInputs.cache
+C:\Users\ALUNO 20\source\repos\Sobrescrita\obj\Debug\net6.0-windows\Sobrescrita.AssemblyInfo.cs
+C:\Users\ALUNO 20\source\repos\Sobrescrita\obj\Debug\net6.0-windows\Sobrescrita.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO 20\source\repos\Sobrescrita\obj\Debug\net6.0-windows\Sobrescrita.dll
+C:\Users\ALUNO 20\source\repos\Sobrescrita\obj\Debug\net6.0-windows\refint\Sobrescrita.dll
+C:\Users\ALUNO 20\source\repos\Sobrescrita\obj\Debug\net6.0-windows\Sobrescrita.pdb
+C:\Users\ALUNO 20\source\repos\Sobrescrita\obj\Debug\net6.0-windows\Sobrescrita.genruntimeconfig.cache
+C:\Users\ALUNO 20\source\repos\Sobrescrita\obj\Debug\net6.0-windows\ref\Sobrescrita.dll
