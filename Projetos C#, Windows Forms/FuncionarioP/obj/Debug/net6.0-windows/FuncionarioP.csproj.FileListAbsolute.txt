@@ -1,0 +1,17 @@
+C:\Users\ALUNO 20\source\repos\FuncionarioP\bin\Debug\net6.0-windows\FuncionarioP.exe
+C:\Users\ALUNO 20\source\repos\FuncionarioP\bin\Debug\net6.0-windows\FuncionarioP.deps.json
+C:\Users\ALUNO 20\source\repos\FuncionarioP\bin\Debug\net6.0-windows\FuncionarioP.runtimeconfig.json
+C:\Users\ALUNO 20\source\repos\FuncionarioP\bin\Debug\net6.0-windows\FuncionarioP.dll
+C:\Users\ALUNO 20\source\repos\FuncionarioP\bin\Debug\net6.0-windows\FuncionarioP.pdb
+C:\Users\ALUNO 20\source\repos\FuncionarioP\obj\Debug\net6.0-windows\FuncionarioP.csproj.AssemblyReference.cache
+C:\Users\ALUNO 20\source\repos\FuncionarioP\obj\Debug\net6.0-windows\FuncionarioP.Form1.resources
+C:\Users\ALUNO 20\source\repos\FuncionarioP\obj\Debug\net6.0-windows\FuncionarioP.csproj.GenerateResource.cache
+C:\Users\ALUNO 20\source\repos\FuncionarioP\obj\Debug\net6.0-windows\FuncionarioP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO 20\source\repos\FuncionarioP\obj\Debug\net6.0-windows\FuncionarioP.AssemblyInfoInputs.cache
+C:\Users\ALUNO 20\source\repos\FuncionarioP\obj\Debug\net6.0-windows\FuncionarioP.AssemblyInfo.cs
+C:\Users\ALUNO 20\source\repos\FuncionarioP\obj\Debug\net6.0-windows\FuncionarioP.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO 20\source\repos\FuncionarioP\obj\Debug\net6.0-windows\FuncionarioP.dll
+C:\Users\ALUNO 20\source\repos\FuncionarioP\obj\Debug\net6.0-windows\refint\FuncionarioP.dll
+C:\Users\ALUNO 20\source\repos\FuncionarioP\obj\Debug\net6.0-windows\FuncionarioP.pdb
+C:\Users\ALUNO 20\source\repos\FuncionarioP\obj\Debug\net6.0-windows\FuncionarioP.genruntimeconfig.cache
+C:\Users\ALUNO 20\source\repos\FuncionarioP\obj\Debug\net6.0-windows\ref\FuncionarioP.dll
