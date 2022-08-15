@@ -1,0 +1,11 @@
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\DataAniversário\bin\Debug\DataAniversário.exe.config
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\DataAniversário\bin\Debug\DataAniversário.exe
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\DataAniversário\bin\Debug\DataAniversário.pdb
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\DataAniversário\obj\Debug\DataAniversário.csproj.AssemblyReference.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\DataAniversário\obj\Debug\DataAniversário.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\DataAniversário\obj\Debug\DataAniversário.Form1.resources
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\DataAniversário\obj\Debug\DataAniversário.Properties.Resources.resources
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\DataAniversário\obj\Debug\DataAniversário.csproj.GenerateResource.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\DataAniversário\obj\Debug\DataAniversário.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\DataAniversário\obj\Debug\DataAniversário.exe
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\DataAniversário\obj\Debug\DataAniversário.pdb

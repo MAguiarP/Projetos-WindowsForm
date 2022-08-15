@@ -1,0 +1,11 @@
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Estrutura de Repetição\bin\Debug\Estrutura de Repetição.exe.config
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Estrutura de Repetição\bin\Debug\Estrutura de Repetição.exe
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Estrutura de Repetição\bin\Debug\Estrutura de Repetição.pdb
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Estrutura de Repetição\obj\Debug\Estrutura de Repetição.csproj.AssemblyReference.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Estrutura de Repetição\obj\Debug\Estrutura de Repetição.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Estrutura de Repetição\obj\Debug\Estrutura_de_Repetição.frmEstruturaRepeticao.resources
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Estrutura de Repetição\obj\Debug\Estrutura_de_Repetição.Properties.Resources.resources
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Estrutura de Repetição\obj\Debug\Estrutura de Repetição.csproj.GenerateResource.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Estrutura de Repetição\obj\Debug\Estrutura de Repetição.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Estrutura de Repetição\obj\Debug\Estrutura de Repetição.exe
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Estrutura de Repetição\obj\Debug\Estrutura de Repetição.pdb

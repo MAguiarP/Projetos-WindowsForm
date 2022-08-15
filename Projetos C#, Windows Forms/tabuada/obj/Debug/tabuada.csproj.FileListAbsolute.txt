@@ -1,0 +1,11 @@
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\tabuada\bin\Debug\tabuada.exe.config
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\tabuada\bin\Debug\tabuada.exe
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\tabuada\bin\Debug\tabuada.pdb
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\tabuada\obj\Debug\tabuada.csproj.AssemblyReference.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\tabuada\obj\Debug\tabuada.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\tabuada\obj\Debug\tabuada.Form1.resources
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\tabuada\obj\Debug\tabuada.Properties.Resources.resources
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\tabuada\obj\Debug\tabuada.csproj.GenerateResource.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\tabuada\obj\Debug\tabuada.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\tabuada\obj\Debug\tabuada.exe
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\tabuada\obj\Debug\tabuada.pdb

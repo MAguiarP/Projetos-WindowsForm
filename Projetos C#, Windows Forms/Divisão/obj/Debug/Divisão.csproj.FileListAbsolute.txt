@@ -1,0 +1,11 @@
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Divisão\bin\Debug\Divisão.exe.config
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Divisão\bin\Debug\Divisão.exe
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Divisão\bin\Debug\Divisão.pdb
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Divisão\obj\Debug\Divisão.csproj.AssemblyReference.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Divisão\obj\Debug\Divisão.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Divisão\obj\Debug\Divisão.frmDivisao.resources
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Divisão\obj\Debug\Divisão.Properties.Resources.resources
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Divisão\obj\Debug\Divisão.csproj.GenerateResource.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Divisão\obj\Debug\Divisão.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Divisão\obj\Debug\Divisão.exe
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Divisão\obj\Debug\Divisão.pdb
