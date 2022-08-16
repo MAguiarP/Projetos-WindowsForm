@@ -1,0 +1,14 @@
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Cadastro\bin\Debug\Cadastro.exe.config
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Cadastro\bin\Debug\Cadastro.exe
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Cadastro\bin\Debug\Cadastro.pdb
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Cadastro\obj\Debug\Cadastro.csproj.AssemblyReference.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Cadastro\obj\Debug\Cadastro.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Cadastro\obj\Debug\Cadastro.Cadastro.resources
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Cadastro\obj\Debug\Cadastro.Properties.Resources.resources
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Cadastro\obj\Debug\Cadastro.csproj.GenerateResource.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Cadastro\obj\Debug\Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Cadastro\obj\Debug\Cadastro.exe
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Cadastro\obj\Debug\Cadastro.pdb
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Cadastro\bin\Debug\aa\Cadastro.resources.dll
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Cadastro\obj\Debug\Cadastro.Cadastro.aa.resources
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Cadastro\obj\Debug\aa\Cadastro.resources.dll

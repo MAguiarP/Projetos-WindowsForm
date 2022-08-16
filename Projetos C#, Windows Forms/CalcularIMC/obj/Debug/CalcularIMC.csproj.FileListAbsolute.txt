@@ -1,0 +1,11 @@
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\CalcularIMC\bin\Debug\CalcularIMC.exe.config
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\CalcularIMC\bin\Debug\CalcularIMC.exe
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\CalcularIMC\bin\Debug\CalcularIMC.pdb
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\CalcularIMC\obj\Debug\CalcularIMC.csproj.AssemblyReference.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\CalcularIMC\obj\Debug\CalcularIMC.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\CalcularIMC\obj\Debug\CalcularIMC.Form1.resources
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\CalcularIMC\obj\Debug\CalcularIMC.Properties.Resources.resources
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\CalcularIMC\obj\Debug\CalcularIMC.csproj.GenerateResource.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\CalcularIMC\obj\Debug\CalcularIMC.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\CalcularIMC\obj\Debug\CalcularIMC.exe
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\CalcularIMC\obj\Debug\CalcularIMC.pdb

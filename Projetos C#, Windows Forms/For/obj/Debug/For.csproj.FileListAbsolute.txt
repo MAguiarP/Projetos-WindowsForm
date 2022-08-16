@@ -1,0 +1,11 @@
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\For\bin\Debug\For.exe.config
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\For\bin\Debug\For.exe
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\For\bin\Debug\For.pdb
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\For\obj\Debug\For.csproj.AssemblyReference.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\For\obj\Debug\For.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\For\obj\Debug\For.Form1.resources
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\For\obj\Debug\For.Properties.Resources.resources
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\For\obj\Debug\For.csproj.GenerateResource.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\For\obj\Debug\For.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\For\obj\Debug\For.exe
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\For\obj\Debug\For.pdb
