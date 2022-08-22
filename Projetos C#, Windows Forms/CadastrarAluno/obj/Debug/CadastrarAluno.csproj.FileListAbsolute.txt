@@ -1,0 +1,11 @@
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\CadastrarAluno\bin\Debug\CadastrarAluno.exe.config
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\CadastrarAluno\bin\Debug\CadastrarAluno.exe
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\CadastrarAluno\bin\Debug\CadastrarAluno.pdb
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\CadastrarAluno\obj\Debug\CadastrarAluno.csproj.AssemblyReference.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\CadastrarAluno\obj\Debug\CadastrarAluno.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\CadastrarAluno\obj\Debug\CadastrarAluno.Form1.resources
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\CadastrarAluno\obj\Debug\CadastrarAluno.Properties.Resources.resources
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\CadastrarAluno\obj\Debug\CadastrarAluno.csproj.GenerateResource.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\CadastrarAluno\obj\Debug\CadastrarAluno.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\CadastrarAluno\obj\Debug\CadastrarAluno.exe
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\CadastrarAluno\obj\Debug\CadastrarAluno.pdb

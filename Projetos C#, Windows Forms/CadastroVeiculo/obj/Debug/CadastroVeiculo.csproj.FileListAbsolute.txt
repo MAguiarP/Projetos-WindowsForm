@@ -1,0 +1,11 @@
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\CadastroVeiculo\bin\Debug\CadastroVeiculo.exe.config
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\CadastroVeiculo\bin\Debug\CadastroVeiculo.exe
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\CadastroVeiculo\bin\Debug\CadastroVeiculo.pdb
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\CadastroVeiculo\obj\Debug\CadastroVeiculo.csproj.AssemblyReference.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\CadastroVeiculo\obj\Debug\CadastroVeiculo.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\CadastroVeiculo\obj\Debug\CadastroVeiculo.Form1.resources
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\CadastroVeiculo\obj\Debug\CadastroVeiculo.Properties.Resources.resources
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\CadastroVeiculo\obj\Debug\CadastroVeiculo.csproj.GenerateResource.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\CadastroVeiculo\obj\Debug\CadastroVeiculo.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\CadastroVeiculo\obj\Debug\CadastroVeiculo.exe
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\CadastroVeiculo\obj\Debug\CadastroVeiculo.pdb
