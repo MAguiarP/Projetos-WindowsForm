@@ -1,0 +1,21 @@
+C:\Users\ALUNO 20\source\repos\Pessoa\bin\Debug\Pessoa.exe.config
+C:\Users\ALUNO 20\source\repos\Pessoa\bin\Debug\Pessoa.exe
+C:\Users\ALUNO 20\source\repos\Pessoa\bin\Debug\Pessoa.pdb
+C:\Users\ALUNO 20\source\repos\Pessoa\obj\Debug\Pessoa.csproj.AssemblyReference.cache
+C:\Users\ALUNO 20\source\repos\Pessoa\obj\Debug\Pessoa.Form1.resources
+C:\Users\ALUNO 20\source\repos\Pessoa\obj\Debug\Pessoa.Properties.Resources.resources
+C:\Users\ALUNO 20\source\repos\Pessoa\obj\Debug\Pessoa.csproj.GenerateResource.cache
+C:\Users\ALUNO 20\source\repos\Pessoa\obj\Debug\Pessoa.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO 20\source\repos\Pessoa\obj\Debug\Pessoa.exe
+C:\Users\ALUNO 20\source\repos\Pessoa\obj\Debug\Pessoa.pdb
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Pessoa\bin\Debug\Pessoa.exe.config
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Pessoa\bin\Debug\Pessoa.exe
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Pessoa\bin\Debug\Pessoa.pdb
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Pessoa\obj\Debug\Pessoa.csproj.AssemblyReference.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Pessoa\obj\Debug\Pessoa.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Pessoa\obj\Debug\Pessoa.Properties.Resources.resources
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Pessoa\obj\Debug\Pessoa.csproj.GenerateResource.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Pessoa\obj\Debug\Pessoa.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Pessoa\obj\Debug\Pessoa.exe
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Pessoa\obj\Debug\Pessoa.pdb
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\Pessoa\obj\Debug\Pessoa.FrmPessoa.resources
