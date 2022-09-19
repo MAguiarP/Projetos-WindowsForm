@@ -1,0 +1,11 @@
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\BoletimVirtual\bin\Debug\BoletimVirtual.exe.config
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\BoletimVirtual\bin\Debug\BoletimVirtual.exe
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\BoletimVirtual\bin\Debug\BoletimVirtual.pdb
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\BoletimVirtual\obj\Debug\BoletimVirtual.csproj.AssemblyReference.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\BoletimVirtual\obj\Debug\BoletimVirtual.csproj.SuggestedBindingRedirects.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\BoletimVirtual\obj\Debug\BoletimVirtual.Form1.resources
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\BoletimVirtual\obj\Debug\BoletimVirtual.Properties.Resources.resources
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\BoletimVirtual\obj\Debug\BoletimVirtual.csproj.GenerateResource.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\BoletimVirtual\obj\Debug\BoletimVirtual.csproj.CoreCompileInputs.cache
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\BoletimVirtual\obj\Debug\BoletimVirtual.exe
+C:\Users\mathe\Documents\ESTUDOS\Programação curso\Programas C#\BoletimVirtual\obj\Debug\BoletimVirtual.pdb
